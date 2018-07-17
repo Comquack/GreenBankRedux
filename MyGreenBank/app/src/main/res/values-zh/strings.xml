@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Green Bank</string>
+    <string name="back_button">返回</string>
+    <string name="add_to_plot">商品材高度</string>
+    <string name="cm_girth">围径（cm）</string>
+    <string name="create">创建</string>
+    <string name="create_plot">建立小区</string>
+    <string name="girth">围径（cm）</string>
+    <string name="estimate">估计材积</string>
+    <string name="home_button">家</string>
+    <string name="invalid_plot_name">无效的小区名</string>
+    <string name="language">语言</string>
+    <string name="log_size">原木规格</string>
+    <string name="manage_plot">管理小区</string>
+    <string name="measure_tree">测量树木</string>
+    <string name="merchant_height">商品材高度</string>
+    <string name="name_plot">插入小区名</string>
+    <string name="settings">环境设置</string>
+    <string name="title_activity_create_plot">地图</string>
+    <string name="too_small">过小</string>
+    <string name="total_height">树高</string>
+    <string name="total_tree_value">数木总值</string>
+    <string name="tree_id">树木身份证</string>
+    <string name="tree_value">价值</string>
+</resources>

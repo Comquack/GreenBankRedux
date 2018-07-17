@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Green Bank</string>
+    <string name="back_button">Regresar</string>
+    <string name="add_to_plot">Altura comercial</string>
+    <string name="cm_girth">Circunferencia (cm)</string>
+    <string name="create">Creare</string>
+    <string name="create_plot">Crear parcela</string>
+    <string name="girth">Circunferencia (cm)</string>
+    <string name="estimate">Estimar valor</string>
+    <string name="home_button">Pantalla principal</string>
+    <string name="invalid_plot_name">Nombre invalido</string>
+    <string name="language">Idioma</string>
+    <string name="log_size">Tamaño de la troza</string>
+    <string name="manage_plot">Gestionar parcela</string>
+    <string name="measure_tree">Medidas del arbol</string>
+    <string name="merchant_height">Altura comercial</string>
+    <string name="name_plot">Insertar nombre</string>
+    <string name="settings">Configuracion</string>
+    <string name="title_activity_create_plot">Mapa</string>
+    <string name="too_small">Demasiado pequeño</string>
+    <string name="total_height">Altura total</string>
+    <string name="total_tree_value">Valor del arbol</string>
+    <string name="tree">Arbol</string>
+    <string name="tree_id">Identificacion arbol</string>
+    <string name="tree_value">Valor</string>
+</resources>
