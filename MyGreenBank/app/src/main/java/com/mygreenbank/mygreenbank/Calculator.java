@@ -14,7 +14,6 @@ public class Calculator {
     private static final double BHEIGHT  = 1.2;
     private static final double STUMP  = .15;
     private static final double BARK  = .9;
-    private String calcCsv;
     public Calculator(){
 
     }
@@ -72,7 +71,4 @@ public class Calculator {
         return rangeNo;
     }
 
-public String setCalcCsv(){
-        return calcCsv;
-    }
 }
